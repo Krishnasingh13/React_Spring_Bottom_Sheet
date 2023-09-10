@@ -18,7 +18,7 @@ Before you begin, ensure you have the following prerequisites installed:
 First, clone this repository to your local machine using the following command:
 
 ```shell
-git clone [https://github.com/Krishnasingh13/React_Spring_Bottom_Sheet.git]
+git clone https://github.com/Krishnasingh13/React_Spring_Bottom_Sheet.git
 ```
 ### Navigate to the Project Folder
 Change your current directory to the project folder:
